@@ -1,0 +1,29 @@
+-- Haskell Playground 1.0
+import Graphics.SpriteKit
+
+
+-- Standard circle, drawn with trig, not a circle function
+myCircle
+
+
+
+
+-- Circle with increasing radius aka a spiral
+mySpiral
+
+
+
+
+-- Spiral with perlin noise effecting the radius on each stroke
+myNSpiral
+
+
+
+
+-- 100 spirals, generated with different seeds and start angles. Commented out because it can take some time to render.
+--crazy100
+
+
+
+
+

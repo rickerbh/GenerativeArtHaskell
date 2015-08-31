@@ -1,0 +1,29 @@
+-- Haskell Playground 1.0
+import Graphics.SpriteKit
+
+-- Straight line
+line1
+
+
+
+-- Straight line with "random" end Y
+line2
+
+
+
+
+-- Random Y
+line3
+
+
+
+
+-- Y with a bad noise function
+line4
+
+
+
+
+-- Y with a much better noise function
+line5
+

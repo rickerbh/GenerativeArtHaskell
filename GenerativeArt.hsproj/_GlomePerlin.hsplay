@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+
+perlin (vec 1 0.2 1)
+perlin (vec 1 0.3 1)
+perlin (vec 1 0.2 1)
+perlin (vec 1 0.5 1)
+perlin (vec 1 2.9 1)
+perlin (vec 1 1 1)

@@ -1,0 +1,52 @@
+name: GenerativeArt
+version: 1.0
+cabal-version: 1.6
+build-type: Simple
+license: MIT
+license-file: ""
+copyright: 2015 Hamish Rickerby
+maintainer:
+build-depends:
+stability: experimental
+homepage:
+package-url:
+bug-reports: https://github.com/rickerbh/GenerativeArtHaskell/issues
+synopsis: Experiments with Generated Images
+description: A collection of functions and drawings that I'm just experimenting with. It's messy. If you'd like to tidy it, or suggest better ways to do things please do via issues/pull reqeusts.
+category: Art
+author: Hamish Rickerby
+tested-with:
+data-files:
+data-dir: ""
+extra-source-files:
+extra-tmp-files:
+extra-doc-files:
+Executable GenerativeArt
+  main-is: GenerativeArtC2.hs
+  buildable: True
+  build-tools:
+  cpp-options:
+  cc-options:
+  ld-options:
+  pkgconfig-depends:
+  frameworks:
+  c-sources:
+  default-language:
+  other-languages:
+  default-extensions:
+  other-extensions:
+  extensions:
+  extra-libraries:
+  extra-lib-dirs:
+  includes:
+  install-includes:
+  include-dirs:
+  hs-source-dirs:
+  other-modules: ArtHelpers SineWave GlomePerlin Simplex
+                 GenerativeArtC3 CircleArt
+  ghc-prof-options:
+  ghc-shared-options:
+  ghc-options:
+  hugs-options:
+  nhc98-options:
+  jhc-options:

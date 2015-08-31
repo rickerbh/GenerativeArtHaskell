@@ -1,0 +1,24 @@
+-- Haskell Playground 1.0
+import Graphics.SpriteKit
+
+-- Sine wave
+sineWave
+
+
+
+-- Cos wave
+cosWave
+
+
+
+-- Sine wave with sin ^3
+sineWave3
+
+
+
+
+-- Sine wave with sin ^3 + perlin noise
+sineWaveN
+
+
+

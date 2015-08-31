@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+noise2D 0 0
+noise2D 10 0
+noise2D 20 0.3885155557016406
+noise2D 30 0.18942640709910405
